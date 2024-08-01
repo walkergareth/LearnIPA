@@ -1,6 +1,0 @@
-AuthUserFile /webusers/eg6ipa/.htpasswd
-AuthName "Login Required"
-AuthType basic
-<Files test.mp4>
-Require valid-user
-</Files>
