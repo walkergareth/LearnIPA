@@ -1,0 +1,6 @@
+body {
+    font-family: "Segoe UI", "Lucida Grande"
+}
+li:not(:last-child) {
+    margin-bottom: 5px;
+}
